@@ -1,4 +1,4 @@
-# Medical-Billing-Services-Provider-Third-Party-Medical-Billing-Service
+# Medfeetree-Medical-Billing-Services-Provider-Third-Party-Medical-Billing-Service
 
 Running a healthcare practice today involves far more than delivering quality patient care. Physicians and healthcare administrators must also manage insurance verification, coding updates, payer communication, compliance regulations, and complex reimbursement structures. These administrative tasks can quickly overwhelm internal staff and divert valuable attention away from patient outcomes. When billing processes slow down or claims are denied due to documentation issues, the financial stability of a medical practice can suffer significantly.
 
